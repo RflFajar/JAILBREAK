@@ -1,0 +1,6 @@
+{
+  "name": "AI Jailbreak Security Lab",
+  "description": "A penetration testing dashboard for evaluating AI model vulnerability to DAN (Do Anything Now) persona adoption attacks based on technical research methodology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
